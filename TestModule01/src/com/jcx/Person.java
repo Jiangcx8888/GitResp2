@@ -8,4 +8,5 @@ package com.jcx;
  */
 public class Person {
     private int age;
+    private String name;
 }
